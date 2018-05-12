@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25615'
     url: http://www.gutenberg.org/2009/agents/25615
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22973#The-English-Husbandmanthe-manner-of-the-Plough-and-other-Instruments
 gutenberg_bookshelf: Horticulture
 gutenberg_issued: '2007-10-12'
 gutenberg_type: Text
